@@ -1,0 +1,6 @@
+*.class
+*.jar
+*.log
+bin/
+out/
+target/
